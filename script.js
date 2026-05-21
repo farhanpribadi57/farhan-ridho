@@ -1,10 +1,11 @@
 // Daftar produk dengan gambar
 const products = [
-    { id: 1, name: 'AQUA', price: 2000, img: 'img/aqua.jpg' },
-    { id: 2, name: 'BONCABE', price: 1000, img: 'img/boncabe.webp' },
-    { id: 3, name: 'CHOCOPIE', price: 2000, img: 'img/chocopie.jpg' },
-    { id: 4, name: 'MAXICORN', price: 2000, img: 'img/maxicorn.jpg' },
-    { id: 5, name: 'QTELLA', price: 2000, img: 'img/qtella.png' },
+    { id: 1, name: 'panther', price: 2000, img: 'panther.jepg' },
+    { id: 2, name: 'chitato', price: 1000, img: 'chitato.jpeg' },
+    { id: 3, name: 'kentang goreng', price: 2000, img: 'kentang goreng.jpeg' },
+    { id: 4, name: 'popcorn', price: 2000, img: 'popcorn.jpeg' },
+    { id: 5, name: 'roti aoka', price: 2000, img: 'roti aoka.jpeg' },
+    { id: 5, name: 'milky', price: 2000, img: 'milky.jpeg' },
 ];
 
 // keranjang belanja
