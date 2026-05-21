@@ -1,6 +1,6 @@
 // Daftar produk dengan gambar
 const products = [
-    { id: 1, name: 'panther', price: 2000, img: 'panther.jepg' },
+    { id: 1, name: 'panther', price: 2000, img: 'panther.jpeg' },
     { id: 2, name: 'chitato', price: 1000, img: 'chitato.jpeg' },
     { id: 3, name: 'kentang goreng', price: 2000, img: 'kentang goreng.jpeg' },
     { id: 4, name: 'popcorn', price: 2000, img: 'popcorn.jpeg' },
